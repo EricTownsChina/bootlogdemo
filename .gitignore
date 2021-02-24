@@ -4,6 +4,14 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+log/**/
+log/
+mvnw
+mvnw.cmd
+.mvn/
+src/test/
+
+
 ### STS ###
 .apt_generated
 .classpath
