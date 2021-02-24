@@ -1,0 +1,16 @@
+logging:
+  config: classpath:log4j2.yml
+
+
+
+
+
+
+
+
+
+
+
+
+server:
+  port: 8082
